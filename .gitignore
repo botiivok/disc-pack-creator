@@ -1,0 +1,12 @@
+### .gitignore
+
+# Python
+__pycache__/
+
+# Local Dirs
+localtmp/
+ffmpeg/
+
+# Ignored/Empty Dirs
+temp/**/*
+!.gitkeep

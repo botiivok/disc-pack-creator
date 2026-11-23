@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": "Made with §9disc-pack-creator§r\n§8@BotiiMods | %s+§r",
+        "min_format": "%d",
+        "max_format": 999,
+        "pack_format": "%d",
+        "supported_formats": {
+            "min_inclusive": "%d",
+            "max_inclusive": 999
+        }
+    }
+}
