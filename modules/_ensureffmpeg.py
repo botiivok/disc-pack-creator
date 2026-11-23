@@ -41,5 +41,3 @@ def installffmpeg() -> None:
         _install_base(FFMPEGURL_WIN32, ZipFile)
     else:
         _install_base(FFMPEGURL_LINUX, TarFile)
-
-installffmpeg()
