@@ -1,140 +1,117 @@
-[
-    {
-        "title": "11",
+{
+    "11": {
         "artist": "C418",
         "length": 71,
         "format": 4
     },
-    {
-        "title": "13",
+    "13": {
         "artist": "C418",
         "length": 178,
         "format": 4
     },
-    {
-        "title": "5",
+    "5": {
         "artist": "Samuel Åberg",
         "length": 178,
         "format": 9
     },
-    {
-        "title": "blocks",
+    "blocks": {
         "artist": "C418",
         "length": 345,
         "format": 4
     },
-    {
-        "title": "bounce",
+    "bounce": {
         "artist": "fingerspit",
         "length": 234,
         "format": 88
     },
-    {
-        "title": "cat",
+    "cat": {
         "artist": "C418",
         "length": 185,
         "format": 4
     },
-    {
-        "title": "chirp",
+    "chirp": {
         "artist": "C418",
         "length": 185,
         "format": 4
     },
-    {
-        "title": "creator",
+    "creator": {
         "artist": "Lena Raine",
         "length": 176,
         "format": 34
     },
-    {
-        "title": "creator_music_box",
+    "creator_music_box": {
         "artist": "Lena Raine",
         "length": 73,
         "format": 34
     },
-    {
-        "title": "far",
+    "far": {
         "artist": "C418",
         "length": 174,
         "format": 4
     },
-    {
-        "title": "flurry",
+    "flurry": {
         "artist": "Hyper Potions",
         "length": 155,
         "format": 102
     },
-    {
-        "title": "lava_chicken",
+    "lava_chicken": {
         "artist": "Hyper Potions",
         "length": 135,
         "format": 64
     },
-    {
-        "title": "mall",
+    "mall": {
         "artist": "C418",
         "length": 197,
         "format": 4
     },
-    {
-        "title": "mellohi",
+    "mellohi": {
         "artist": "C418",
         "length": 96,
         "format": 4
     },
-    {
-        "title": "otherside",
+    "otherside": {
         "artist": "Lena Raine",
         "length": 195,
         "format": 8
     },
-    {
-        "title": "pigstep",
+    "pigstep": {
         "artist": "Lena Raine",
         "length": 148,
         "format": 5
     },
-    {
-        "title": "precipice",
+    "precipice": {
         "artist": "Aaron Cherof",
         "length": 299,
         "format": 34
     },
-    {
-        "title": "relic",
+    "relic": {
         "artist": "Aaron Cherof",
         "length": 219,
         "format": 15
     },
-    {
-        "title": "stal",
+    "stal": {
         "artist": "C418",
         "length": 150,
         "format": 4
     },
-    {
-        "title": "strad",
+    "strad": {
         "artist": "C418",
         "length": 188,
         "format": 4
     },
-    {
-        "title": "tears",
+    "tears": {
         "artist": "Amos Roddy",
         "length": 175,
         "format": 63
     },
-    {
-        "title": "wait",
+    "wait": {
         "artist": "C418",
         "length": 237,
         "format": 4
     },
-    {
-        "title": "ward",
+    "ward": {
         "artist": "C418",
         "length": 251,
         "format": 4
     }
-]
+}
