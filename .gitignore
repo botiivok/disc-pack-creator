@@ -3,10 +3,10 @@
 # Python
 __pycache__/
 
-# Local Dirs
-localtmp/
+# Local Stuff
+ignore/
 ffmpeg/
-
-# Ignored/Empty Dirs
 temp/**/*
+
+# Empty Dirs
 !.gitkeep
